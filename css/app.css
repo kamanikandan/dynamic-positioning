@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    width: 100%;
+    height: 800px;
+}
+
+#dynaDiv {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    background-color: blueviolet;
+    display: none;
+}
+h1 {
+    color: blueviolet;
+    position: absolute;
+    left: 0;top: 0;bottom: 0;right: 0;
+    margin: auto;
+    height: 40px;
+    text-align: center;
+}
